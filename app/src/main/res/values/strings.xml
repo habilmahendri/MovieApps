@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApps</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="submit">Submit</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+</resources>
